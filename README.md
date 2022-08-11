@@ -3,4 +3,4 @@ This front-end application based on React-Redux, perform CRUD operations and all
 
 # Packages
 
-redux, react-redux, bootstrap
+redux, react-redux, bootstrap 
